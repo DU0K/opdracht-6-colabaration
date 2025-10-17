@@ -13,12 +13,12 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| a | . | . | e | . | . | . | . | a | . | . | . |
+| a | . | . | e | . | . | s | . | a | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/2.png)
+![status](images/3.png)
 
 ---
 
@@ -32,3 +32,4 @@
 - beurt4: Noah gokt "l"
 - fout!
 - beurt5: Panter gokt "s"
+- goed!
