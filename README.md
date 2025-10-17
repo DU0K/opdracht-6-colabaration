@@ -18,7 +18,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/5.png)
+![status](images/6.png)
 
 ---
 
@@ -41,4 +41,5 @@
 - fout!
 - beurt9: Noah gokt "i"
 - goed!
--beurt10: Panter gokt "u"
+- beurt10: Panter gokt "u"
+- fout!
