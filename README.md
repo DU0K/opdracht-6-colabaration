@@ -43,3 +43,4 @@
 - goed!
 - beurt10: Panter gokt "u"
 - fout!
+- beurt11: Cady gokt "o"
