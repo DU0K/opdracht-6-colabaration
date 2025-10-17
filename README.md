@@ -13,12 +13,12 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| . | . | . | . | . | . | . | . | . | . | . | . |
+| a | . | . | . | . | . | . | . | a | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/1.png)
+![status](images/2.png)
 
 ---
 
@@ -26,3 +26,4 @@
 - beurt1: Cady gokt "g"
 - fout!
 - beurt2: Niklas gokt "a"
+- goed!
