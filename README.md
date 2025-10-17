@@ -25,4 +25,4 @@
 ## Beurtenlog
 - beurt1: Cady gokt "g"
 - fout!
-- beurt2: ... gokt " "
+- beurt2: Niklas gokt "a"
