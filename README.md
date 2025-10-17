@@ -35,3 +35,4 @@
 - goed!
 - beurt6: Cady gokt "m"
 - goed!
+- beurt7: Niklas gokt "p"
