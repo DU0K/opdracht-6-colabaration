@@ -24,5 +24,5 @@
 
 ## Beurtenlog
 - beurt1: Cady gokt "g"
-- (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: ...
+- fout!
+- beurt2: ... gokt " "
