@@ -1,11 +1,13 @@
 # Galgje – Git Collaboration
 
-**Team:** <Teamnaam>  
+**Team:** <ducks>  
 **Spelvolgorde & contact:**
-1. <Naam 1> – <email1@example.com>
-2. <Naam 2> – <email2@example.com>
-3. <Naam 3> – <email3@example.com>
-4. <Naam 4> – <email4@example.com>
+1. <Naam 1> – <Benthe>
+2. <Naam 2> – <Noah>
+3. <Naam 4> – <Cady>
+3. <Naam 3> – <Oscar>
+4. <Naam 4> – <Niklas>
+5. <Naam 4> – <Sven>
 
 ---
 
@@ -16,7 +18,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/image1.png)
+![status](images/1.png)
 
 ---
 
