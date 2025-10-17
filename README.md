@@ -1,6 +1,6 @@
 # Galgje – Git Collaboration
 
-**Team:** ducks  
+**Team:** <ducks>  
 **Spelvolgorde & contact:**
 1. <Naam 1> – Benthe
 2. <Naam 2> – Noah
@@ -23,6 +23,6 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Naam> gokt "?"
+- beurt1: Cady gokt "g"
 - (Git-master vult hier reactie in: goed/fout + updates)
 - beurt2: ...
