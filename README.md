@@ -13,7 +13,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| a | . | . | e | . | . | s | . | a | . | . | . |
+| a | . | . | e | . | . | s | m | a | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -34,3 +34,4 @@
 - beurt5: Panter gokt "s"
 - goed!
 - beurt6: Cady gokt "m"
+- goed!
