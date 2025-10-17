@@ -30,3 +30,4 @@
 - beurt3: Oscar gokt "e"
 - goed!
 - beurt4: Noah gokt "l"
+- fout!
