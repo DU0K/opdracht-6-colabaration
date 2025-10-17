@@ -27,3 +27,4 @@
 - fout!
 - beurt2: Niklas gokt "a"
 - goed!
+- beurt3: Oscar gokt "e"
