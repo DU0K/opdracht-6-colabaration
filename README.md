@@ -13,12 +13,12 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| a | . | . | e | . | . | s | m | a | . | . | . |
+| a | . | . | e | i | . | s | m | a | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/4.png)
+![status](images/5.png)
 
 ---
 
@@ -39,4 +39,5 @@
 - fout!
 - beurt8: Oscar gokt "n"
 - fout!
--beurt9: Noah gokt "i"
+- beurt9: Noah gokt "i"
+- goed!
