@@ -2,12 +2,12 @@
 
 **Team:** <ducks>  
 **Spelvolgorde & contact:**
-1. <Naam 1> – <Benthe>
-2. <Naam 2> – <Noah>
-3. <Naam 4> – <Cady>
-3. <Naam 3> – <Oscar>
-4. <Naam 4> – <Niklas>
-5. <Naam 4> – <Sven>
+1. <Naam 1> – Benthe
+2. <Naam 2> – Noah
+3. <Naam 4> – Cady
+3. <Naam 3> – Oscar
+4. <Naam 4> – Niklas
+5. <Naam 4> – Sven
 
 ---
 
