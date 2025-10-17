@@ -31,3 +31,4 @@
 - goed!
 - beurt4: Noah gokt "l"
 - fout!
+- beurt5: Panter gokt "s"
