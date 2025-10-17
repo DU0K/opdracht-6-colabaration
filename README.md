@@ -41,3 +41,4 @@
 - fout!
 - beurt9: Noah gokt "i"
 - goed!
+-beurt10: Panter gokt "u"
