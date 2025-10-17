@@ -13,7 +13,7 @@
 
 ## Woordraster
 <!-- Pas het aantal kolommen aan aan de woordlengte -->
-| a | . | . | . | . | . | . | . | a | . | . | . |
+| a | . | . | e | . | . | . | . | a | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
@@ -28,3 +28,4 @@
 - beurt2: Niklas gokt "a"
 - goed!
 - beurt3: Oscar gokt "e"
+- goed!
