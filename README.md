@@ -1,6 +1,6 @@
 # Galgje – Git Collaboration
 
-**Team:** <ducks>  
+**Team:** ducks  
 **Spelvolgorde & contact:**
 1. <Naam 1> – Benthe
 2. <Naam 2> – Noah
