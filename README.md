@@ -33,3 +33,4 @@
 - fout!
 - beurt5: Panter gokt "s"
 - goed!
+- beurt6: Cady gokt "m"
