@@ -37,3 +37,4 @@
 - goed!
 - beurt7: Niklas gokt "p"
 - fout!
+- beurt8: Oscar gokt "n"
