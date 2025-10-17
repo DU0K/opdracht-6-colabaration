@@ -18,7 +18,7 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 
 ## Status
-![status](images/6.png)
+![status](images/7.png)
 
 ---
 
@@ -44,3 +44,4 @@
 - beurt10: Panter gokt "u"
 - fout!
 - beurt11: Cady gokt "o"
+- fout! Levens op :/
